@@ -12,3 +12,9 @@ By completing this project, you will have demonstrated proficiency with the foll
 - **Links** (`a`): Navigation between recipe pages
 - **Unordered Lists** (`ul`) and **List Items** (`li`): Displaying ingredients
 - **Ordered Lists** (`ol`) and **List Items** (`li`): Showing step-by-step cooking instructions
+
+## Photo Credits
+
+- Bok Choy Ramen Salad by Allrecipes
+- Chef John's Individual Beef Wellingtons by Chef John
+- Quick and Easy Yorkshire Pudding by DOTDASH MEREDITH FOOD STUDIOS

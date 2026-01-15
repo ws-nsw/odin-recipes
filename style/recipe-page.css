@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(252, 255, 222);
+  line-height: 1.5;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  width: 300px;
+  display: block;
+  margin: 0 auto;
+}
+
+.recipe-container {
+  width: 800px;
+  margin: 0 auto;
+}
